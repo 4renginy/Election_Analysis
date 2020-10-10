@@ -20,10 +20,12 @@ We have recieved Election Results as "Election_Results.csv" file. The file has 3
 
 Historically the audits have been done in excell however Colarado Board of Elections wants to automate the process.If it is done successfully the process could be used not only in other districts but also for other elections. <br>
 
-With the help of this file we have reached the following results;
+With the help of this file we have reached the following results;</br>
+
     	____________________________
 	Total Vote Counts: 369,711
 	____________________________
+	
 	
 	Votes % and counts by County:
 	_____________________________
@@ -31,9 +33,9 @@ With the help of this file we have reached the following results;
 		*Jefferson : 10.5% (38,855)
 		*Denver    : 82.8% (306,055
 		*Arapahoe  : 6.7%  (24,801)
-	___________________________________________
-	Largest county turnout was in Denver with 82.8%
-	___________________________________________
+	
+	**Largest county turnout was in Denver with 82.8%**
+
 	Vote Counts for each Candidate:
 	_______________________________
 		*Charles Casper Stockham: 23.0% (85,213)
