@@ -47,12 +47,13 @@ With the help of this file we have reached the following results;</br>
 ##Results and Applications
 
 Total of 369,711 votes has been casted, Diana DeGette won the election by recieving 73.8% of the total votes. The biggest turnout was in Denver county.</br>
+This code is set to run to calculate the requested reqults for this election however we can easily modify it to be used at other elecions like local or general elections. Some examples of we could modify the code for:</br>
 
-By pointing  different "file_to_load" and "file_to_save" files this process could be used for other elections. Some examples of we could modify the code for:</br>
-
+	-By pointing  different "file_to_load" and "file_to_save" files 
+		*this process could be used for other any given data 
 	-party association of the candidate
 		*we could have used to calculate total votes for each party
 	-propositions or measures on the ballot
 		*we could have counted the "yes" or "no" votes for each proposition and calculate the total vote for each.
+		
 Those are only a few examples of how useful this process would be for the Election Board.
--
