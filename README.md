@@ -44,7 +44,7 @@ With the help of this file we have reached the following results;</br>
 		*Winner: Diana DeGette
 		*Winning Vote Count: 272,892
 		*Winning Percentage: 73.8%
-[Election_Analysis}(https://github.com/4renginy/Election_Analysis/blob/master/Analysis/election_results.txt)		
+[Election_Analysis File](https://github.com/4renginy/Election_Analysis/blob/master/Analysis/election_results.txt)		
 ## Results and Application
 
 Total of 369,711 votes has been casted, Diana DeGette won the election by recieving 73.8% of the total votes. The biggest turnout was in Denver county.</br>
