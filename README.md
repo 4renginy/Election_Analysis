@@ -44,7 +44,7 @@ With the help of this file we have reached the following results;</br>
 		*Winning Vote Count: 272,892
 		*Winning Percentage: 73.8%
 		
-##Results and Applications
+#Results and Application
 
 Total of 369,711 votes has been casted, Diana DeGette won the election by recieving 73.8% of the total votes. The biggest turnout was in Denver county.</br>
 This code is set to run to calculate the requested reqults for this election however we can easily modify it to be used at other elecions like local or general elections. Some examples of we could modify the code for:</br>
