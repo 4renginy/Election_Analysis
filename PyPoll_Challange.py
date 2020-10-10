@@ -92,11 +92,11 @@ with open (file_to_save, "w") as txt_file:
 
     # Print the final vote count (to terminal)
 
-    
-
-    # 6a: Write a repetition statement to get the county from the county dictionary.
+    print(election_results, end="")
     print("\nCounty Votes:\n",
     "\n***********************\n")
+    # 6a: Write a repetition statement to get the county from the county dictionary.
+    
     for county in county_votes:
         # 6b: Retrieve the county vote count. 
         county_vote = county_votes[county] 
@@ -116,7 +116,6 @@ with open (file_to_save, "w") as txt_file:
             largest_county=county
 
     # 7: Print the county with the largest turnout to the terminal.
-   # f"Largest County Turnout: {largest_county}"
         largest_county_results=(
             f"-------------------------\n"
             f"Largest County Turnout: {largest_county}\n"            
