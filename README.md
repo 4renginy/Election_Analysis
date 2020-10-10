@@ -26,24 +26,20 @@ With the help of this file we have reached the following results;</br>
 	Total Vote Counts: 369,711
 	____________________________
 	
+	**Largest county turnout was in Denver with 82.8%**
+	
 	
 	Votes % and counts by County:
-	_____________________________
-	
 		*Jefferson : 10.5% (38,855)
 		*Denver    : 82.8% (306,055
 		*Arapahoe  : 6.7%  (24,801)
-	
-	**Largest county turnout was in Denver with 82.8%**
 
 	Vote Counts for each Candidate:
-	_______________________________
 		*Charles Casper Stockham: 23.0% (85,213)
 		*Diana DeGette          : 73.8% (272,892)
 		*Raymon Anthony Doane   : 3.1%  (11,606)
 		
 	Winner Info:
-	___________
 		*Winner: Diana DeGette
 		*Winning Vote Count: 272,892
 		*Winning Percentage: 73.8%
