@@ -16,6 +16,8 @@ The tasks we are asked to complete are:
 Counts of votes casted by; mail ballots, puch cards, and  DRI counting machines determmine the final election results. Our job is to count the votes and certifiy the results of the race.</br>
 
 We have recieved Election Results as "Election_Results.csv" file. The file has 3 colums as; Ballot ID, County and Candidate and 369,712 rows as votes. </br>. 
+![](https://github.com/4renginy/Election_Analysis/blob/master/excel.PNG)
+
 Historically the audits have been done in excell however Colarado Board of Elections wants to automate the process.If it is done successfully the process could be used not only in other districts but also for other elections. <br>
 
 With the help of this file we have reached the following results;
