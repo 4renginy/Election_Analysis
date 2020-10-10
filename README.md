@@ -22,7 +22,7 @@ Historically the audits have been done in excell however Colarado Board of Elect
 
 With the help of this file we have reached the following results;</br>
 
-    	____________________________
+    ____________________________
 	Total Vote Counts: 369,711
 	____________________________
 	
